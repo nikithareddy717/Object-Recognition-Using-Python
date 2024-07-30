@@ -1,0 +1,5 @@
+package com.nt.servlet
+import jvax.servlet.http.*;
+import java.io..*;
+public class FirstServlet extends HTTPServlet{
+protected void doGet 
